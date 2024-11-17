@@ -1,0 +1,11 @@
+yfinance
+pandas
+openpyxl
+matplotlib
+mplfinance
+textblob
+requests
+beautifulsoup4
+numpy
+plotly
+dash
